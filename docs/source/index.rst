@@ -10,7 +10,8 @@ Welcome to project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+.. note::
+   This is underdevelopment
 
 Indices and tables
 ==================
